@@ -11,17 +11,6 @@
 <img src="https://github.com/noejunior792/clone_techvio/assets/153394025/ada8ae41-aabb-4b3e-b3de-c1b3dc24752b.png" width="700px" />
 </div>
 
-
-<p align="center">
-  Heey! So good to see you here. <br>I'm Kaká, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> also, and I'm doing my master in <strong>Computer Engineer</strong>.<br />
-<strong>Start to developing </strong>bring me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>.
-
-</p>
-
-<p align="center">
-  I'm an <strong>Icamiaba</strong> in tech!<br />
-</p>
-
 <p align="center">
   💼 Skills: <strong>Overcome obstacles with a big smile.</strong>
 </p>
