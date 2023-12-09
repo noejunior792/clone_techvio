@@ -42,7 +42,7 @@
 
 
 <div align="center">
-<img src="https://github.com/noejunior792/clone_techvio/assets/153394025/8bfdf4ee-5dfb-496e-8b54-87ccb9ca28af.jpg" width="500px" />
+<img src="https://github.com/noejunior792/clone_techvio/assets/153394025/24af8d06-e599-4efd-8135-167858129786.jpg" width="500px" />
 </div>
 
 
@@ -52,7 +52,7 @@
 <div align="center">
 <h1>Videos</h1>
 <video width="640" height="360" controls>
-  <source src="https://github.com/noejunior792/clone_techvio/assets/153394025/eda76420-b7ed-470e-adeb-fbf79c19f639" type="video/mp4">
+  <source src="https://github.com/noejunior792/clone_techvio/assets/153394025/eda76420-b7ed-470e-adeb-fbf79c19f639.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </div>
