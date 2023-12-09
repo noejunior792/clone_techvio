@@ -8,7 +8,7 @@
 <h1 style="text-align:center">Screenshot</h1>
 
 <div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+<img src="https://github.com/noejunior792/clone_techvio/assets/153394025/ada8ae41-aabb-4b3e-b3de-c1b3dc24752b.png" width="700px" />
 </div>
 
 
